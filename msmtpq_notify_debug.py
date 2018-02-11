@@ -1,1 +1,0 @@
-msmtpq_notify.py
